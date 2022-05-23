@@ -1,4 +1,4 @@
-# BOARDMON
+# BOARDMON (master copy ver)
 
 -   보드게임 추천 웹 서비스
 
